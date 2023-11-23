@@ -1,0 +1,17 @@
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\bin\Debug\net6.0\TestesCrawler.exe
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\bin\Debug\net6.0\TestesCrawler.deps.json
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\bin\Debug\net6.0\TestesCrawler.runtimeconfig.json
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\bin\Debug\net6.0\TestesCrawler.dll
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\bin\Debug\net6.0\TestesCrawler.pdb
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.AssemblyInfoInputs.cache
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.AssemblyInfo.cs
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.csproj.CoreCompileInputs.cache
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.dll
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\refint\TestesCrawler.dll
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.pdb
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.genruntimeconfig.cache
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\ref\TestesCrawler.dll
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.csproj.AssemblyReference.cache
+C:\Users\DerickPC\Desktop\Projetos GIT\EstudosCrawler\TestesCrawler\TestesCrawler\obj\Debug\net6.0\TestesCrawler.csproj.CopyComplete

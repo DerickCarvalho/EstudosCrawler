@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mT+TOiC+kqp5seA/hsbEuHCJzoJnGtq90Jg52ePb4i58ovRv+gY+uMwAJUhOiLuCy5/ZlJOFuoxvofqPhHMJQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DerickPC\\Desktop\\Projetos GIT\\EstudosCrawler\\TestesCrawler\\TestesCrawler\\TestesCrawler.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DerickPC\\.nuget\\packages\\htmlagilitypack\\1.11.54\\htmlagilitypack.1.11.54.nupkg.sha512"
+  ],
+  "logs": []
+}
